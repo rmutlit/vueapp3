@@ -3,6 +3,9 @@
     <v-app>
       <v-navigation-drawer app>
         <p>navigation drwwer</p>
+        <v-btn color="primary">เมนูหลัก</v-btn> <br>
+        <v-btn color="error">หน้าแรก</v-btn> <br>
+        <v-btn color="error">เกี่ยวกับ</v-btn> <br>
       </v-navigation-drawer>
 
       <v-app-bar app>
