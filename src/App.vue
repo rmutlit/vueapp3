@@ -50,8 +50,8 @@ export default {
 </script>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@600&family=Prompt:wght@100&display=swap');
 #app {
-font-family: 'Itim', cursive;
+font-family: 'Mitr', sans-serif;
 }
 </style>
